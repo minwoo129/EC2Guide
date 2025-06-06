@@ -8,21 +8,21 @@
 
 1. [AWS](https://aws.amazon.com/ko/?nc2=h_lg) 접속
 
-   ![img01.png](https://github.com/minwoo129/readmeImgs/blob/master/EC2Guide/img01.png)
+   ![img01.png](https://fejumvuajiwc28287693.gcdn.ntruss.com/EC2Guide/img01.png)
 
 2. 로그인 후 콘솔에서 EC2 접속
 
-   ![img02.png](https://github.com/minwoo129/readmeImgs/blob/master/EC2Guide/img02.png)
+   ![img02.png](https://fejumvuajiwc28287693.gcdn.ntruss.com/EC2Guide/img02.png)
 
-   ![img03.png](https://github.com/minwoo129/readmeImgs/blob/master/EC2Guide/img03.png)
+   ![img03.png](https://fejumvuajiwc28287693.gcdn.ntruss.com/EC2Guide/img03.png)
 
 3. 하단에 “인스턴스 시작” 클릭
 
-   ![img04.png](https://github.com/minwoo129/readmeImgs/blob/master/EC2Guide/img04.png)
+   ![img04.png](https://fejumvuajiwc28287693.gcdn.ntruss.com/EC2Guide/img04.png)
 
 4. 이미지 속 페이지가 열리면 관련 정보 입력
 
-   ![img05.png](https://github.com/minwoo129/readmeImgs/blob/master/EC2Guide/img05.png)
+   ![img05.png](https://fejumvuajiwc28287693.gcdn.ntruss.com/EC2Guide/img05.png)
 
    - 이름: 원하는 대로(가급적 영어로)
    - 애플리케이션 및 OS 이미지
@@ -51,25 +51,25 @@
 
    EC2 메인 콘솔에서 왼쪽에 인스턴스를 클릭하면
 
-   ![img07.png](https://github.com/minwoo129/readmeImgs/blob/master/EC2Guide/img07.png)
+   ![img07.png](https://fejumvuajiwc28287693.gcdn.ntruss.com/EC2Guide/img07.png)
 
    다음과 같은 페이지가 열린다.
 
-   ![img08.png](https://github.com/minwoo129/readmeImgs/blob/master/EC2Guide/img08.png)
+   ![img08.png](https://fejumvuajiwc28287693.gcdn.ntruss.com/EC2Guide/img08.png)
 
    여기서 내가 생성한 인스턴스 ID를 클릭하면 다음과 같이 인스턴스 상세 정보를 확인할 수 있다.
 
-   ![img09.png](https://github.com/minwoo129/readmeImgs/blob/master/EC2Guide/img09.png)
+   ![img09.png](https://fejumvuajiwc28287693.gcdn.ntruss.com/EC2Guide/img09.png)
 
 6. 인스턴스 보안설정
 
    인스턴스 상세에서 하단에 “보안”을 클릭하면
 
-   ![img10.png](https://github.com/minwoo129/readmeImgs/blob/master/EC2Guide/img10.png)
+   ![img10.png](https://fejumvuajiwc28287693.gcdn.ntruss.com/EC2Guide/img10.png)
 
    아래와 같은 화면이 표시된다.
 
-   ![img11.png](https://github.com/minwoo129/readmeImgs/blob/master/EC2Guide/img11.png)
+   ![img11.png](https://fejumvuajiwc28287693.gcdn.ntruss.com/EC2Guide/img11.png)
 
    여기서 주황색 박스로 표시된 부분에 보안그룹 아이디가 적혀있는데(보안을 위해 모자이크 처리해둠), 이 아이디를 클릭한다.
 
@@ -99,4 +99,4 @@
 
    접속 성공 예시
 
-   ![img12.png](https://github.com/minwoo129/readmeImgs/blob/master/EC2Guide/img12.png)
+   ![img12.png](https://fejumvuajiwc28287693.gcdn.ntruss.com/EC2Guide/img12.png)
